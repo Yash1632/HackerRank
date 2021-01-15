@@ -1,3 +1,4 @@
+//Scope of a variable code
 #include <cmath>
 #include <cstdio>
 #include <vector>
